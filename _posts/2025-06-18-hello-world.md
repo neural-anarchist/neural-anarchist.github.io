@@ -43,7 +43,7 @@ But slowly, almost unnoticeably, life here began to show me something different.
 <br><br>
 But in friendships built over spontaneous conversations, in morning sprints where the sun rose as you breathed the foggy air, in harmless pranks that left us laughing, in jam sessions and those crazy noises we make, late-night walks, last-day-of-school pizza party, questions made by AI that didn’t have answers, and the quiet appreciation for those whose presence in your life kept you going — who encouraged you, inspired you, and reignited your fire when it dimmed.
 <br><br>
-Yet the sprint was never wrong — it’s the directionless sprint that leads us into darkness. Running faster doesn’t help if you’re going in circles, 
+Yet the sprint was never wrong — it’s the directionless sprint that leads us into darkness. Running faster doesn’t help if you’re going in circles.
 <br><br>
 The wonder of life often happens when we pause, when we take time to look around, to reflect, to enjoy the great sceneries along the road. Maybe even to photograph the road behind us or invent a better way forward — a bicycle, a car, or something entirely our own.
 <br><br>
