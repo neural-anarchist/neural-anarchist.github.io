@@ -41,7 +41,7 @@ But slowly, almost unnoticeably, life here began to show me something different.
 
 ### The wonder of life is never about winning the race.
 <br><br>
-But in friendships built over spontaneous conversations, in morning sprints where the sun rose as you breathed the foggy air, in harmless pranks that left us laughing, in jam sessions and those crazy noise we make, late-night walks, last-day-of-school pizza party, questions made by AI that didn’t have answers, and the quiet appreciation for those whose presence in your life kept you going — who encouraged you, inspired you, and reignited your fire when it dimmed.
+But in friendships built over spontaneous conversations, in morning sprints where the sun rose as you breathed the foggy air, in harmless pranks that left us laughing, in jam sessions and those crazy noises we make, late-night walks, last-day-of-school pizza party, questions made by AI that didn’t have answers, and the quiet appreciation for those whose presence in your life kept you going — who encouraged you, inspired you, and reignited your fire when it dimmed.
 <br><br>
 Yet the sprint was never wrong — it’s the directionless sprint that leads us into darkness. Running faster doesn’t help if you’re going in circles, 
 <br><br>
