@@ -23,3 +23,40 @@
   color: #0d47a1; /* dark blue */
 }
 
+
+.fancy-notecard {
+  background: #fffefc;
+  border: 2px solid #f0e6dc;
+  border-left: 6px solid #d6b46a;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'Georgia', serif;
+  padding: 1.2rem 1.5rem;
+  margin: 2rem 0;
+  position: relative;
+  border-radius: 12px;
+  color: #333;
+  line-height: 1.7;
+  transition: all 0.3s ease;
+}
+
+.fancy-notecard::before {
+  content: "✦ Note from Your Birthday Self";
+  font-weight: bold;
+  color: #a87e4f;
+  position: absolute;
+  top: -1.2rem;
+  left: 1rem;
+  background: #fffefc;
+  padding: 0 0.4rem;
+  font-size: 1.2rem;
+  letter-spacing: 0.03em;
+}
+
+.fancy-notecard em {
+  font-style: italic;
+  color: #865e30;
+}
+
+.fancy-notecard strong {
+  color: #2e2e2e;
+}
