@@ -1,6 +1,6 @@
 ---
 title: "End of 24-25 School Year"
-date: 2025-06-18 00:00:00 + 0800
+date: 2025-06-18 00:00:00 +0800
 categories: [Hello World]
 tags: [hello world]
 ---

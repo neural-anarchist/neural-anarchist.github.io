@@ -1,6 +1,6 @@
 ---
 title: "Those Chinese Math Olympiad Kids..."
-date: 2025-06-21 00:00:00 + 0800
+date: 2025-06-21 00:00:00 +0800
 categories: [Math]
 tags: [Combo,China]
 ---
