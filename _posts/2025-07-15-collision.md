@@ -6,7 +6,7 @@ categories: [Physics]
 tags: [Alg, Mechanics, Calculus]
 ---
 
-Finally, I encountered a physics problem which I can solve intuitively using some math tricks that people use a lot in math olympiads to solve!
+Finally, I encountered a physics problem which I can solve intuitively using some math tricks that people use a lot in math olympiads!
 
 
 ## Problem: Optimal Mass for Maximum Energy Transfer in Sequential Collisions
