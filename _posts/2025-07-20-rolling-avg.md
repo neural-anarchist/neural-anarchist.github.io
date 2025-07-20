@@ -1,6 +1,6 @@
 ---
 title: "Mechanics Practice 1 (the essence):"
-date: 2025-07-20 09:05:00 -0400
+date: 2025-07-20 10:05:00 -0400
 math: true
 categories: [Physics]
 tags: [Mechanics, Calculus]
