@@ -7,7 +7,7 @@ tags: [Demo, Guitar, John Mayer, Verdictless Life]
 
 End of camp today! The whole experience was definitely mindblowing, and as I anticipated there would be more time for music.
 
-### First John Mayer Song Cover!!!
+### First John Mayer Song Cover!!! 
 
 The timing of this recording surprised me on two levels. First, I didn't expect to be able to perform this song's entirety so soon, as it's the most technically challenging I've tackled yet as a "frontman with a guitar". At the same time, it's been three weeks since I first started practicing the main riff, which is a personal record of practice length for me to reach "fluent" performance.
 

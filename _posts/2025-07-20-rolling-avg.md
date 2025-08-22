@@ -14,7 +14,7 @@ Getting started on some actual olympiad problems:
 
 As depicted in the figure, a smooth, rigid flat plate PQ of length $$L = 1.00 \text{ m}$$ is securely attached to the upper extremity of a light spring. The opposing end of the spring is fixed to the ground. The plate's motion is restricted to purely vertical displacement by two frictionless, parallel guides (not illustrated). The natural period of oscillation for the plate-spring system is $$T = 2.00 \text{ s}$$.
 
-A small spherical ball B is initially positioned on a frictionless horizontal surface. The rightmost edge of this surface is precisely aligned vertically above point P on the plate. The vertical separation between the launching surface and point P (when the plate is in its equilibrium position) is $$h = 9.80 \text{ m}$$. The plate is initially at rest in its equilibrium position. The mass of ball B is identical to the mass of plate PQ.
+A small spherical ball B is initially posddsitioned on a frictionless horizontal surface. The rightmost edge of this surface is precisely aligned vertically above point P on the plate. The vertical separation between the launching surface and point P (when the plate is in its equilibrium position) is $$h = 9.80 \text{ m}$$. The plate is initially at rest in its equilibrium position. The mass of ball B is identical to the mass of plate PQ.
 
 Ball B is launched horizontally to the right with an initial velocity $$v_0$$. It subsequently undergoes an elastic collision with the plate. The duration of this collision is infinitesimally short, and the influence of gravity during the collision process itself may be disregarded.
 
