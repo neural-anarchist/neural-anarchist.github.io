@@ -34,14 +34,14 @@ So, back to why these feelings may be misleading.
 
 I really overthought things recently.
 
-In short, it was a sorrowful debate between apriorism and aposteriorism ideas that haunted me and shook my faith.
+In short, it was a sorrowful debate between apriorism and aposteriorism ideas, deeply associated with crafting the "perfect" mindset. Pieces of my recent life under these lens of undefine haunted me and shook my faith.
 
 Faithfully, I'll just need a little more time to go through all the unpleasantness and make an agreement with my conflicting inner self. But before all that resolves and I'm able to find a balance of settling my own entropy and casting out the entropy, these many things I shall keep to myself.
 
 And even if this process takes forever...
 
-We are still united on that very path.
+I know that the rest of the world is unified with me on that very path.
 
 Everyone bears a unique burden from the world, but doesn't the suffering also hint a greater purpose for us to come by?
 
-See you on the way to the other side.
+I guess I'll be meeting these  wandering souls on the way to the other side.
