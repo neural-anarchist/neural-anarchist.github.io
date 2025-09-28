@@ -8,5 +8,5 @@ order: 4
 
 Welcome!
 
-
+(Try hard-refreshing if an audio doesn't work. cmd/ctl+R)
 
