@@ -1,7 +1,7 @@
 
 ## Hi There!
 
-I'm a High School student and this is my personal blog website:
+This is the link to my personal blog website:
 https://neural-anarchist.github.io
 
 
