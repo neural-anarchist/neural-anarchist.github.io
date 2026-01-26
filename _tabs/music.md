@@ -10,7 +10,7 @@ order: 3
 <div class="na-audio">
 
   <audio class="na-audio__el" preload="auto">
-    <source src="/assets/rec/me me she.mp3" type="audio/mp4" />
+    <source src="/assets/rec/me me she.mp3" type="audio/mpeg" />
     Your browser does not support the audio element.
   </audio>
 
