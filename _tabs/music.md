@@ -10,7 +10,7 @@ order: 3
 <div class="na-audio">
 
   <audio class="na-audio__el" preload="auto">
-    <source src="/assets/rec/me me she.mp3" type="audio/mpeg" />
+    <source src="/assets/rec/me-me-she.mp3" type="audio/mp3" />
     Your browser does not support the audio element.
   </audio>
 
@@ -68,14 +68,17 @@ order: 3
     backdrop-filter: blur(10px);
   }
 
-  /* Hide native controls but keep the element real and functional */
+
   .na-audio__el{
-    width: 100%;
-    height: 0;
-    opacity: 0;
-    pointer-events: none;
-    position: absolute;
-  }
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  position: fixed;  
+  left: -9999px;
+  top: -9999px;
+  opacity: 0;
+}
+
 
   .na-audio__top{ display:flex; align-items:center; gap: 12px; }
   .na-audio__btn{
@@ -158,7 +161,7 @@ order: 3
 
 <script>
 (() => {
-  // Enhance ALL players on the page safely
+  
   document.querySelectorAll(".na-audio").forEach(root => {
     if (root.dataset.enhanced === "1") return;
     root.dataset.enhanced = "1";
@@ -172,7 +175,7 @@ order: 3
     const vol = root.querySelector(".na-audio__vol");
     const speedBtns = [...root.querySelectorAll(".na-audio__speed")];
 
-    // Helps Safari behave better with custom UI
+  
     audio.setAttribute("playsinline", "");
     audio.controls = false;
 
