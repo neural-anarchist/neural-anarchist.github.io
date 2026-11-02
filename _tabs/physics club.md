@@ -10,6 +10,8 @@ A collection of the Lexington High School Physics Club handouts/meeting material
 
 ---
 
+### 2025
+
 <a href="/assets/phy/W1.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color:rgb(56, 146, 206); color: white; border-radius: 6px; text-decoration: none;">Week One (Scavenger Hunt)</a>
 
 <a href="/assets/phy/W2.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: rgb(56, 146, 206); color: white; border-radius: 6px; text-decoration: none;">Week Two (Early QotW Collection)</a>
@@ -25,3 +27,17 @@ A collection of the Lexington High School Physics Club handouts/meeting material
 <a href="/assets/phy/pr handout.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color:rgb(56, 146, 206); color: white; border-radius: 6px; text-decoration: none;">Special Handout</a>
 
 <a href="/assets/phy/w7.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color:rgb(56, 146, 206); color: white; border-radius: 6px; text-decoration: none;">Week Seven (rotations and fictitious forces)</a>
+
+
+---
+
+
+### 2026
+
+<a href="/assets/phy/frames.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color:rgb(56, 146, 206); color: white; border-radius: 6px; text-decoration: none;">Frames and Relativity</a>
+
+<a href="/assets/phy/approx.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color:rgb(56, 146, 206); color: white; border-radius: 6px; text-decoration: none;">Small Value Approximations</a>
+
+<a href="/assets/phy/calc.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color:rgb(56, 146, 206); color: white; border-radius: 6px; text-decoration: none;">"The Grand Calculus of the Universe"</a>
+
+<a href="/assets/phy/esti.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color:rgb(56, 146, 206); color: white; border-radius: 6px; text-decoration: none;">Estimation</a>
